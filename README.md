@@ -6,3 +6,4 @@ Stats: This one takes a .txt file as an argument and counts the number of times 
 
 Chats: This also takes a .txt file but instead it returns a statement that is similar to the originial file. It does this by building groups of words of a maximum length and selecting a next word at random based on the patterns of the original file. 
 
+It uses a simple parser to build a list of words for both files to work off of.
